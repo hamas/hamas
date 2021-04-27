@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hamas
+- 👀 I’m interested in HTML & CSS.
+- 🌱 I’m currently learning Figma.
+- 💞️ I’m looking to collaborate on different website design.
+- 📫 You can reach me at my email i.e hamasdmc@gmail.com
